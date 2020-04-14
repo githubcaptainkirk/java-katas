@@ -1,5 +1,6 @@
-package org.example;
+package org.example.growingplant;
 
+import org.example.growingplant.App;
 import org.junit.Before;
 import org.junit.Test;
 
