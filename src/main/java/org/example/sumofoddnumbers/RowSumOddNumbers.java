@@ -7,7 +7,7 @@ public class RowSumOddNumbers {
         int number = 0;
         int value = 0;
         int result = 0;
-        ArrayList<Integer> listArray = new ArrayList<Integer>();
+        ArrayList<Integer> listArray = new ArrayList<>();
 
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= i; j++) {
